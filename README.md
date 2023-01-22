@@ -9,4 +9,4 @@ Réalisation : La réalisation d'un tableau de bord en temps réel pour suivre l
 
 ### Tableau de bord
 
-![alt text](https://github.com/CRMEF-SM/project-dataviz-project/blob/main/dashboard.jpeg)
+![alt text](https://github.com/med-fakil/Big-data-Exam/blob/main/Tableau%20de%20bord.png)
