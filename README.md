@@ -5,7 +5,7 @@
 Réalisation : La réalisation d'un tableau de bord en temps réel pour suivre l'état interne des équipements.</br></br></br>
 
 ### Architecture
-![alt text](https://github.com/CRMEF-SM/project-dataviz-project/blob/main/architecture.png)
+![alt text](https://github.com/med-fakil/Big-data-Exam/blob/main/arc.jpg)
 
 ### Tableau de bord
 
